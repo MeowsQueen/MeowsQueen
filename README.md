@@ -172,7 +172,7 @@ My work lives where complexity becomes *graceful.*
 
 ---
 
-# 🌷 **Why “Beyza”?**
+# 🌷 **Why “MeowsQueen”?**
 
 Because elegance can be powerful.  
 Because intelligence can be soft.  
