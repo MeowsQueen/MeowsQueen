@@ -181,15 +181,6 @@ My work lives where complexity becomes *graceful.*
   <img src="https://img.shields.io/badge/Robotics-b4d2ee?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/flower.png" width="75%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="60%" />
-</p>
-
 <p align="center">
   <em>"Creating systems that are reliable, intelligent, and beautifully engineered."</em>
 </p>
