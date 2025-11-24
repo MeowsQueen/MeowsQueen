@@ -102,7 +102,7 @@ My work lives where complexity becomes *graceful.*
 - Sensor fusion, obstacle avoidance  
 - IoT smart parking system
 
-# 🩺 **Clinical & Medical AI Research — Istinye University**
+# 🩺 **Clinical & Medical AI Researchs**
 <p align="center"> <img src="https://raw.githubusercontent.com/naorpeled/medical-ai-icons/master/heart_pulse.gif" width="130"/> </p>
 
 ### 🌸 Early-Stage Pediatric Cardiovascular Anomaly Detection
@@ -169,9 +169,6 @@ My work lives where complexity becomes *graceful.*
   <img src="https://img.shields.io/badge/Morphological_Analysis-e4a9d6?style=for-the-badge&logo=marketo&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Biomarker_Studies-dfa1cf?style=for-the-badge&logo=biolink&logoColor=ffffff" />
 </p>
-
-### 🩷 **Medical AI Skills**
-<p align="center"> <img src="https://img.shields.io/badge/3D_Slicer-f4c5e9?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Survival_Analysis-f1bde4?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Clinical_Biomarkers-ebb3dd?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Medical_Segmentation-e4a9d6?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Synthetic_Datasets-dfa1cf?style=for-the-badge&logoColor=ffffff" /> </p>
 
 ### 🌸 **Tools**
 <p align="center">
