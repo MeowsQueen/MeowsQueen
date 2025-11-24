@@ -46,7 +46,7 @@ My work lives where complexity becomes *graceful.*
 # 🛫 **Current Role — Enterprise Network Engineer @ Istanbul Sabiha Gökçen Airport (ISG)**  
 *One of the busiest and most security-critical infrastructures — where failures are not allowed.*
 
-### 🌐 **What I Actually Work On **
+### 🌐 **What I Actually Work On**
 
 ## 🔹 **Core Switching & Infrastructure**
 - Multi-tier **Core–Distribution–Access** architectures  
