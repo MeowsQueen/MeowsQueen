@@ -108,87 +108,89 @@ My work lives where complexity becomes *graceful.*
 
 ---
 
-# 🛠 **FULL TECH STACK**
+# 🛠 **FULL TECH STACK (ICON + BADGE VERSION)**
 
-## **Programming**
-- Python (ML, automation, pipelines, APIs)  
-- C & C++ (embedded logic, microcontrollers, low-level control)  
-- SQL (relational modelling, optimized queries)  
-- Assembly (MIPS, AVR) — register-level control & ISA understanding  
+### **Programming**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-8ab4f8?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C++-a0bcd5?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C_language-b4d2ee?style=for-the-badge&logo=c&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/SQL-9ccffb?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Assembly-c7d8f3?style=for-the-badge&logo=arduino&logoColor=ffffff" />
+</p>
 
----
+### **AI / Machine Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-8ab4f8?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Keras-a0bcd5?style=for-the-badge&logo=keras&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/scikit--learn-b4d2ee?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/EDA-9ccffb?style=for-the-badge&logo=googleanalytics&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AUC--ROC-c7d8f3?style=for-the-badge&logo=codeigniter&logoColor=ffffff" />
+</p>
 
-## **AI / Machine Learning**
-- TensorFlow · Keras · scikit-learn  
-- Hyperparameter optimization, CV, inference  
-- AUC-ROC, survival analysis, biomarker studies  
-- Image segmentation, classification, augmentation  
-- Synthetic dataset engineering  
+### **Networking**
+<p align="center">
+  <img src="https://img.shields.io/badge/VLAN_Engineering-8ab4f8?style=for-the-badge&logo=cisco&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/802.1X_Authentication-a0bcd5?style=for-the-badge&logo=cisco&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/RADIUS-b4d2ee?style=for-the-badge&logo=cisco&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/FortiGate-9ccffb?style=for-the-badge&logo=fortinet&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/HPE_IRF_Stacks-c7d8f3?style=for-the-badge&logo=hp&logoColor=ffffff" />
+</p>
 
----
+### **Embedded Systems & Robotics**
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-8ab4f8?style=for-the-badge&logo=arduino&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AVR_Microcontrollers-a0bcd5?style=for-the-badge&logo=atmel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Sensor_Fusion-b4d2ee?style=for-the-badge&logo=adguard&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/UART_Protocols-9ccffb?style=for-the-badge&logo=protocols&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Autonomous_Robotics-c7d8f3?style=for-the-badge&logo=robotframework&logoColor=ffffff" />
+</p>
 
-## **Biomedical Imaging & Bioinformatics**
-- 3D Slicer (segmentation workflows)  
-- OpenCV for medical imaging  
-- U-Net segmentation, mask generation, heatmaps  
-- Morphological/quantitative cell analysis  
+### **Biomedical Imaging & Bioinformatics**
+<p align="center">
+  <img src="https://img.shields.io/badge/3D_Slicer-8ab4f8?style=for-the-badge&logo=biomerieux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/OpenCV-a0bcd5?style=for-the-badge&logo=opencv&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Medical_Segmentation-b4d2ee?style=for-the-badge&logo=protocols&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Morphological_Analysis-9ccffb?style=for-the-badge&logo=marketo&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Biomarker_Studies-c7d8f3?style=for-the-badge&logo=biolink&logoColor=ffffff" />
+</p>
 
----
-
-## **Networking & Enterprise Infrastructure**
-- L2/L3 switching (HPE 5130/5140)  
-- IRF stacking & LACP  
-- VLAN design, dynamic segmentation, inter-VLAN routing  
-- 802.1X · EAPOL · RADIUS · MAC-auth  
-- FortiGate (NAT/PAT/VPN/security policies)  
-- DHCP snooping, IP source guard, ACLs  
-- High-security wired & wireless deployments  
-- HPE IMC monitoring, SNMP events, topology mapping  
-
----
-
-## **Embedded Systems & Robotics**
-- Arduino · AVR  
-- RFID, ultrasonic, IR sensors  
-- UART communication  
-- PWM motor control, servos  
-- Autonomous navigation logic  
-
----
-
-## **Systems & Operating Concepts**
-- Scheduling, concurrency, multithreading  
-- Memory management (paging, segmentation, VM)  
-- Kernel abstractions & filesystems  
-- Synchronization & deadlock prevention  
-
----
-
-## **Tools & Platforms**
-- Git, Linux, Bash  
-- Pandas, Numpy  
-- Jupyter, VSCode, PyCharm  
-- Streamlit  
+### **Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-8ab4f8?style=for-the-badge&logo=linux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-a0bcd5?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/VSCode-b4d2ee?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Streamlit-9ccffb?style=for-the-badge&logo=streamlit&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Jupyter-c7d8f3?style=for-the-badge&logo=jupyter&logoColor=ffffff" />
+</p>
 
 ---
 
 # 🌸 **Soft-Aesthetic Badges**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-a0bcd5?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-8ab4f8?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-b0c7e6?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-9ccffb?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robotics-b4d2ee?style=for-the-badge&logo=arduino&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-8ab4f8?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Networking-a0bcd5?style=for-the-badge&logo=cisco&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Machine_Learning-b0c7e6?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AI-9ccffb?style=for-the-badge&logo=googlecloud&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Robotics-b4d2ee?style=for-the-badge&logo=arduino&logoColor=ffffff" />
 </p>
 
 <p align="center">
   <em>"Creating systems that are reliable, intelligent, and beautifully engineered."</em>
 </p>
- 
-# 🌷 Why “MeowsQueen”?
 
-Because elegance can be powerful.
-Because intelligence can be soft.
+---
+
+# 🌷 **Why “Beyza”?**
+
+Because elegance can be powerful.  
+Because intelligence can be soft.  
 Because complexity can bloom.
 
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="70%" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=b0c7e6&height=120&section=footer&text=Thank%20you%20for%20visiting&fontSize=25&fontColor=f3f7ff" /> </p> ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b0c7e6&height=120&section=footer&text=Thank%20you%20for%20visiting&fontSize=25&fontColor=f3f7ff" />
+</p>
