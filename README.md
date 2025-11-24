@@ -26,7 +26,7 @@ I build at the intersection of *all of them.*
 
 ---
 
-# 🌸 **Who I Am**
+# 🌸 **Who I Am?**
 
 A builder of systems that combine:
 
@@ -46,7 +46,7 @@ My work lives where complexity becomes *graceful.*
 # 🪷 **Current Role —  Network Engineer @ Istanbul Sabiha Gökçen Airport (ISG)**  
 *One of the busiest and most security-critical infrastructures — where failures are not allowed.*
 
-### **What I Actually Work On**
+### **What I Actually Work On?**
 
 ## 🌸 **Core Switching & Infrastructure**
 - Multi-tier **Core–Distribution–Access** architectures  
@@ -108,7 +108,7 @@ My work lives where complexity becomes *graceful.*
 
 ---
 
-# 🖥️ **FULL TECH STACK (Soft-Pastel Badge Edition)**
+# 🖥️ **FULL TECH STACK**
 
 ### 🌸 **Programming**
 <p align="center">
