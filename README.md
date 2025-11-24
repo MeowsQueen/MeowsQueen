@@ -108,7 +108,7 @@ My work lives where complexity becomes *graceful.*
 
 ---
 
-# 🛠 **FULL TECH STACK (ICON + BADGE VERSION)**
+# 🛠 **FULL TECH STACK**
 
 ### **Programming**
 <p align="center">
