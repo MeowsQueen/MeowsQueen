@@ -182,17 +182,9 @@ My work lives where complexity becomes *graceful.*
 </p>
 
 ---
-
-# 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeowsQueen&show_icons=true&count_private=true&theme=calm_pink" height="170"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/flower.png" width="75%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeowsQueen&theme=calm_pink" height="170"/>
-</p>
-
----
 
 # 🐍 **Contribution Snake**
 ```md
