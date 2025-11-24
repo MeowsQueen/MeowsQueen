@@ -100,45 +100,27 @@ My work lives where complexity becomes *graceful.*
 ### 🤖 **Robotics & Embedded Systems**
 - Voice-controlled autonomous car  
 - Sensor fusion, obstacle avoidance  
-- IoT smart parking system  
-🩺 Clinical & Medical AI Research — Istinye University
+- IoT smart parking system
+
+# 🩺 **Clinical & Medical AI Research — Istinye University**
 <p align="center"> <img src="https://raw.githubusercontent.com/naorpeled/medical-ai-icons/master/heart_pulse.gif" width="130"/> </p>
-🌸 Early-Stage Pediatric Cardiovascular Anomaly Detection
 
-Intern Researcher — Istinye University
+### 🌸 Early-Stage Pediatric Cardiovascular Anomaly Detection
+- Performed data anonymization & secure patient metadata handling.
+- Used 3D Slicer for pediatric cardiovascular image segmentation.
+- Built preprocessing pipelines combining clinical + imaging data.
+- Improved segmentation accuracy with ML-based refinement & morphological ops.
+- Contributed to early-stage pediatric cardiovascular anomaly detection models.
+- Ensured compliance with medical data privacy and research ethics.
 
-Performed data anonymization & secure patient metadata handling.
-
-Used 3D Slicer for pediatric cardiovascular image segmentation.
-
-Built preprocessing pipelines combining clinical + imaging data.
-
-Improved segmentation accuracy with ML-based refinement & morphological ops.
-
-Contributed to early-stage pediatric cardiovascular anomaly detection models.
-
-Ensured compliance with medical data privacy and research ethics.
-
-🌸 Hyperparathyroidism Diagnosis & Prognostic Modeling
-
-Research Intern — Istinye University
-
-Engineered synthetic clinical datasets for PHPT model improvement.
-
-Performed advanced ROC analyses on key biomarkers:
-
-Serum Calcium, PTH, Phosphorus, PF Index, Urine Calcium
-
-Conducted Kaplan–Meier survival analysis & Cox regression to model symptom progression.
-
-Built multivariate regression models with non-linear relationships & interaction terms.
-
-Developed risk stratification scores for individualized patient monitoring.
-
-Validated models with cross-validation + threshold tuning.
-
-🩷 Medical AI Skills
-<p align="center"> <img src="https://img.shields.io/badge/3D_Slicer-f4c5e9?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Survival_Analysis-f1bde4?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Clinical_Biomarkers-ebb3dd?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Medical_Segmentation-e4a9d6?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Synthetic_Datasets-dfa1cf?style=for-the-badge&logoColor=ffffff" /> </p>
+### 🌸 Hyperparathyroidism Diagnosis & Prognostic Modeling
+- Engineered synthetic clinical datasets for PHPT model improvement.
+- Performed advanced ROC analyses on key biomarkers:
+- Serum Calcium, PTH, Phosphorus, PF Index, Urine Calcium
+- Conducted Kaplan–Meier survival analysis & Cox regression to model symptom progression.
+- Built multivariate regression models with non-linear relationships & interaction terms.
+- Developed risk stratification scores for individualized patient monitoring.
+- Validated models with cross-validation + threshold tuning.
 ---
 
 # 🖥️ **FULL TECH STACK**
@@ -188,6 +170,9 @@ Validated models with cross-validation + threshold tuning.
   <img src="https://img.shields.io/badge/Biomarker_Studies-dfa1cf?style=for-the-badge&logo=biolink&logoColor=ffffff" />
 </p>
 
+### 🩷 **Medical AI Skills**
+<p align="center"> <img src="https://img.shields.io/badge/3D_Slicer-f4c5e9?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Survival_Analysis-f1bde4?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Clinical_Biomarkers-ebb3dd?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Medical_Segmentation-e4a9d6?style=for-the-badge&logoColor=ffffff" /> <img src="https://img.shields.io/badge/Synthetic_Datasets-dfa1cf?style=for-the-badge&logoColor=ffffff" /> </p>
+
 ### 🌸 **Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-f4c5e9?style=for-the-badge&logo=linux&logoColor=ffffff" />
@@ -196,7 +181,6 @@ Validated models with cross-validation + threshold tuning.
   <img src="https://img.shields.io/badge/Streamlit-e4a9d6?style=for-the-badge&logo=streamlit&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Jupyter-dfa1cf?style=for-the-badge&logo=jupyter&logoColor=ffffff" />
 </p>
-
 ---
 
 # 🌷 **Why “MeowsQueen”?**
