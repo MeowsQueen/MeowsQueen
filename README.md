@@ -173,9 +173,5 @@ Because intelligence can be soft.
 Because complexity can bloom.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/flower.png" width="70%" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f4c5e9&height=120&section=footer&text=Thank%20you%20for%20visiting&fontSize=25&fontColor=ffffff" />
 </p>
