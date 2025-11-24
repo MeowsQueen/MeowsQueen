@@ -184,10 +184,6 @@ My work lives where complexity becomes *graceful.*
 <p align="center">
   <em>"Creating systems that are reliable, intelligent, and beautifully engineered."</em>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="65%" />
-</p>
  
 # 🌷 Why “MeowsQueen”?
 
