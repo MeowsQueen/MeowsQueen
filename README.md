@@ -105,18 +105,60 @@ My work lives where complexity becomes *graceful.*
 ---
 
 # 🖥️ **FULL TECH STACK**
-*(Soft pastel badge version — already perfect)*
 
-[burayı değiştirmedim; olduğu gibi devam ediyor]
-
----
-
-# 🐈‍⬛ **Aesthetic Pixel Cat Corner**
+### 🌸 **Programming**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GithubCatRunner/catrun/main/cat.gif" width="260" />
+  <img src="https://img.shields.io/badge/Python-f4c5e9?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C++-f1bde4?style=for-the-badge&logo=cplusplus&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/C_Language-ebb3dd?style=for-the-badge&logo=c&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/SQL-e4a9d6?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Assembly-dfa1cf?style=for-the-badge&logo=arduino&logoColor=ffffff" />
 </p>
 
-<p align="center"><em>running through pastel dimensions...</em></p>
+### 🌸 **AI / Machine Learning**
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-f4c5e9?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Keras-f1bde4?style=for-the-badge&logo=keras&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/scikit--learn-ebb3dd?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Data_Analysis-e4a9d6?style=for-the-badge&logo=googleanalytics&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AUC--ROC-dfa1cf?style=for-the-badge&logo=codeigniter&logoColor=ffffff" />
+</p>
+
+### 🌸 **Networking**
+<p align="center">
+  <img src="https://img.shields.io/badge/VLAN_Engineering-f4c5e9?style=for-the-badge&logo=cisco&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/802.1X-f1bde4?style=for-the-badge&logo=cisco&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/RADIUS-ebb3dd?style=for-the-badge&logo=cisco&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/FortiGate-e4a9d6?style=for-the-badge&logo=fortinet&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/HPE_IRF_Stacks-dfa1cf?style=for-the-badge&logo=hp&logoColor=ffffff" />
+</p>
+
+### 🌸 **Embedded & Robotics**
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-f4c5e9?style=for-the-badge&logo=arduino&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/AVR_MCUs-f1bde4?style=for-the-badge&logo=atmel&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Sensor_Fusion-ebb3dd?style=for-the-badge&logo=adguard&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/UART_Protocols-e4a9d6?style=for-the-badge&logo=protocols&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Autonomous_Robotics-dfa1cf?style=for-the-badge&logo=robotframework&logoColor=ffffff" />
+</p>
+
+### 🌸 **Bioinformatics & Imaging**
+<p align="center">
+  <img src="https://img.shields.io/badge/3D_Slicer-f4c5e9?style=for-the-badge&logo=biomerieux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/OpenCV-f1bde4?style=for-the-badge&logo=opencv&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Medical_Segmentation-ebb3dd?style=for-the-badge&logo=protocols&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Morphological_Analysis-e4a9d6?style=for-the-badge&logo=marketo&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Biomarker_Studies-dfa1cf?style=for-the-badge&logo=biolink&logoColor=ffffff" />
+</p>
+
+### 🌸 **Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-f4c5e9?style=for-the-badge&logo=linux&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Git-f1bde4?style=for-the-badge&logo=git&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/VSCode-ebb3dd?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Streamlit-e4a9d6?style=for-the-badge&logo=streamlit&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Jupyter-dfa1cf?style=for-the-badge&logo=jupyter&logoColor=ffffff" />
+</p>
 
 ---
 
