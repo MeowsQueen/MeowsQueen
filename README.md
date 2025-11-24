@@ -22,7 +22,7 @@ I build at the intersection of *all of them.*
 
 ---
 
-# 🌸 **Who I Am?**
+# 🌸 **Who I Am**
 
 A builder of systems that combine:
 
@@ -79,9 +79,6 @@ My work lives where complexity becomes *graceful.*
 - Authentication storms, DHCP failures  
 - Uplink mispatch & STP issues  
 - High-stakes root cause analysis  
-
-✨ Started as an intern — offered a full role due to performance & rapid learning.
-
 ---
 
 # 🌺 **AI & Bioengineering Projects**
@@ -102,8 +99,7 @@ My work lives where complexity becomes *graceful.*
 - Sensor fusion, obstacle avoidance  
 - IoT smart parking system
 
-# 🩺 **Clinical & Medical AI Researchs**
-<p align="center"> <img src="https://raw.githubusercontent.com/naorpeled/medical-ai-icons/master/heart_pulse.gif" width="130"/> </p>
+# 🩺 **Clinical & Medical AI Research**
 
 ### 🌸 Early-Stage Pediatric Cardiovascular Anomaly Detection
 - Performed data anonymization & secure patient metadata handling.
