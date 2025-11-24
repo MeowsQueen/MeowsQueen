@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/flower.png" width="70%" />
-</p>
-
-<p align="center">
   <img src="https://em-content.zobj.net/thumbs/120/apple/354/cherry-blossom_1f338.png" width="50" />
 </p>
 
