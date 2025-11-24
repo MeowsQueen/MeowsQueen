@@ -186,11 +186,19 @@ My work lives where complexity becomes *graceful.*
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/flower.png" width="75%" />
 </p>
 
-# 🐍 **Contribution Snake**
-```md
-![snake gif](https://github.com/MeowsQueen/MeowsQueen/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="60%" />
+</p>
 
-🌷 Why “MeowsQueen”?
+<p align="center">
+  <em>"Creating systems that are reliable, intelligent, and beautifully engineered."</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="65%" />
+</p>
+ 
+# 🌷 Why “MeowsQueen”?
 
 Because elegance can be powerful.
 Because intelligence can be soft.
