@@ -166,15 +166,6 @@ My work lives where complexity becomes *graceful.*
 
 ---
 
-# 🌸 **Soft-Aesthetic Badges**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-8ab4f8?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Networking-a0bcd5?style=for-the-badge&logo=cisco&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Machine_Learning-b0c7e6?style=for-the-badge&logo=tensorflow&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/AI-9ccffb?style=for-the-badge&logo=googlecloud&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Robotics-b4d2ee?style=for-the-badge&logo=arduino&logoColor=ffffff" />
-</p>
-
 <p align="center">
   <em>"Creating systems that are reliable, intelligent, and beautifully engineered."</em>
 </p>
