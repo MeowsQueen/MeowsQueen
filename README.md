@@ -11,7 +11,7 @@
 ---
 
 # 🌷 **Hi, I'm Beyza**
-*A computer science engineer with multidisciplinary depth.*
+*A computer engineer with multidisciplinary depth.*
 
 I am majoring in **Computer Engineering (CS)** and completing a second major in **Molecular Biology & Genetics**, which allows me to integrate computational thinking with real scientific complexity.
 
